@@ -6,6 +6,8 @@ Before going any further, please read this:
 
 https://docs.google.com/document/d/1tTJ8NAZYUAlmuh_dlDB191bnrW_aPaK1XLcf3b7JURk/edit?usp=sharing
 
+**Note: The information about "Kijin" in the Final Thoughts section in the document linked above has not been updated since I wrote the document. No keyboard named Kijin is currently planned as of July 1 2024 (if my overall inactivity in designs hasn't otherwise been an indicator).**
+
 I'm releasing this with an MIT License. You are free to do what you want with this but I will not assist you in producing or troubleshooting the design.
 
 # Production Information
