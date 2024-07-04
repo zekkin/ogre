@@ -10,18 +10,32 @@ I'm releasing this with an MIT License. You are free to do what you want with th
 
 # Production Information
 
+All information in this section should be validated using the design files in this repository.
+
 ## Threading
 
 |                     | Size | Depth |
 | ----------------- | ------------------- | ------------- |
-| Case (top/bottom) | M2 | 6 mm |
-| Daughterboard    | M2 | 1.5 mm |
+| **Case (top/bottom)** | M2 | 6 mm |
+| **Daughterboard**    | M2 | 1.5 mm |
 
 ## Fastening
 
 |                     | Size |
 | ----------------- | ------------------- |
-| Case (top/bottom)                  | M2 x 10mm                              |
-| Daughterboard                      | M2 x 2mm / M2 x 3mm                    |
+| **Case (top/bottom)**                  | M2 x 10mm                              |
+| **Daughterboard**                      | M2 x 2mm / M2 x 3mm                    |
 
+## O-ring
 
+As long as Graveshift is around you can source an o-ring for the Ogre here:
+
+https://graveshift.com/products/graveshift-s-o-rings
+
+If they are not available from Graveshift you should be able to source them using this information:
+
+|  | Size (Inches) | Size (Millimeters) |
+| ------------------- | --- | --- |
+| **Inner Diameter (ID)**                    | 7.25 | 184 |
+| **Outer Diameter (OD)**                   | 7.5 | 190 |
+| **Cross Section (CS)**                     | 0.125 | 3 |
