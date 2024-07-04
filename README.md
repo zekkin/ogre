@@ -18,8 +18,8 @@ All information in this section should be validated using the design files in th
 
 |                     | Size | Depth |
 | ----------------- | ------------------- | ------------- |
-| **Case (top/bottom)** | M2 | 6 mm |
-| **Daughterboard**    | M2 | 1.5 mm |
+| **Case (top/bottom)** | M2 | 6mm |
+| **Daughterboard**    | M2 | 1.5mm |
 
 ## Fastening
 
